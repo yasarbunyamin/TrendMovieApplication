@@ -1,0 +1,4 @@
+#Tue Mar 17 17:01:53 EET 2020
+base.0=/Users/bunyaminyasar/Desktop/trend/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
